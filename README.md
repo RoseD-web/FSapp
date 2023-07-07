@@ -1,6 +1,7 @@
 # fsapp
 
 A new Flutter project.
+![Simulator Screen Shot - iPhone 14 - 2023-07-07 at 23 24 53](https://github.com/RoseD-web/FSapp/assets/67821352/8a710801-a587-41cb-b857-d4efa645db36)
 
 ## Getting Started
 
